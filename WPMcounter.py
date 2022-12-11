@@ -18,7 +18,7 @@ print(prompt)
 print("--------------------------------------------")
 
 # User input
-answer = input()\
+answer = input()
 
 # Timer stops when user finishes input.
 end_time = time.perf_counter_ns()
